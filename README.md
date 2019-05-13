@@ -1,13 +1,12 @@
 textengine-books
 ====
 official repo of Textengine books
-----                                       
-	  
+----
  1. What is Textengine?
 		
 	Textengine is an opensource engine for interactive books and text quests.
 	Now it's very raw but in future I'll improve it.
-	Textengine you can get here [Textengine repo](https://github.com/lesnoilis/textengine)
+	Textengine you can get here: [Textengine repo](https://github.com/lesnoilis/textengine)
 
  2. How can I make my own book?
 	
@@ -29,7 +28,7 @@ official repo of Textengine books
 		"0": "// here is the inscription on the 2nd button"
 	  },
 	  {
-		“0”: “// transition parameter when pressing the 1st button”
+		"0": "// transition parameter when pressing the 1st button"
 	  },
 	  {
 		"0": "// transition parameter when pressing the 2nd button"
