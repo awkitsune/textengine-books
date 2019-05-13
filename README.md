@@ -38,7 +38,7 @@ official repo of Textengine books
 		
 	The info.json file should have 2 parameters:
 		
-	```
+	```json
 	{
 		"name": "// book name",
 		"author": "// author's name”
